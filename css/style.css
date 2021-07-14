@@ -134,10 +134,10 @@ body{
 }
 
 /* logo */
-
+.logo{
+    text-align:center;
+}
 .logo img{
-    margin-left: 500px;
-    margin-right: 500px;
     width: 483.87px;
     height: 110px;
 }
