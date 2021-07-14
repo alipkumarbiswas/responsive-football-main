@@ -8,7 +8,7 @@ body{
     overflow-x: hidden;
 }
 .caption{
-    disdisplay: flex;
+    display: flex;
     flex-direction: row;
     width: 1520px;
     height: 688px;
@@ -140,4 +140,17 @@ body{
 .club-frame:hover .photo {
     transform: scale(1.5) skew(30deg);
     transition: transform 2s ease-in-out;
+}
+.logo img{
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 483.87px;
+    height: 110px;
+}
+.icon{
+    color: gray;
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
