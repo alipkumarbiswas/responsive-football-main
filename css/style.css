@@ -49,8 +49,10 @@ body{
     width: 120px;
     height: 35px;
 
-
 }
+
+/* players detail */
+
 .players-detail{
     display: flex;
     flex-direction: column;
@@ -78,7 +80,7 @@ body{
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
 }
 
-
+/* clubs */
 
 .clubs{
     margin-left:0px;
@@ -130,6 +132,9 @@ body{
     transform: scale(1.5) skew(30deg);
     transition: transform 2s ease-in-out;
 }
+
+/* logo */
+
 .logo img{
     margin-left: 500px;
     margin-right: 500px;
@@ -140,6 +145,9 @@ body{
     color: gray;
     text-align: center;
 }
+
+/* footer */
+
 footer{
     text-align: center;
 }
